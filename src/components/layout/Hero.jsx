@@ -16,7 +16,7 @@ export default function Hero() {
   };
 
   return (
-    <section className="relative min-h-screen flex flex-col justify-center bg-[#F9FAFB] overflow-hidden pt-20">
+    <section className="relative min-h-screen flex flex-col justify-center bg-[#F9FAFA de] overflow-hidden pt-20">
       {/* Subtle grid lines */}
       <div className="absolute inset-0 pointer-events-none" aria-hidden>
         <div className="absolute top-0 left-1/3 w-px h-full bg-[#1A1A1A]/[0.04]" />
